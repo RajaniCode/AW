@@ -15,7 +15,7 @@ Credits
 [mongodb.com](https://mongodb.com/)  
 [min.io](https://min.io/)  
 [terraform.io](https://terraform.io/)  
-[app.diagrams.ne](https://app.diagrams.net/)  
+[app.diagrams.net](https://app.diagrams.net/)  
 [rules.sonarsource.com/terraform](https://rules.sonarsource.com/terraform/)  
 [rules.sonarsource.com/cloudformation](https://rules.sonarsource.com/cloudformation/)  
 [rules.sonarsource.com/xml](https://rules.sonarsource.com/xml/)  
