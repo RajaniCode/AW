@@ -26,7 +26,7 @@ Credits/mongodb.com.svg?raw=true)](https://mongodb.com/)
 [![image](
 Credits/minio.io.svg?raw=true)](https://minio.io)  
 [![image](
-Credits/terraform.iosvg?raw=true)](https://terraform.io/)  
+Credits/terraform.io.svg?raw=true)](https://terraform.io/)  
 [![image](
 Credits/Terraform-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/terraform/)  
 [![image](
