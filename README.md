@@ -28,6 +28,8 @@ Credits/minio.io.svg?raw=true)](https://minio.io)
 [![image](
 Credits/terraform.io.svg?raw=true)](https://terraform.io/)  
 [![image](
+Credits/owasp.org.svg?raw=true)](https://owasp.org/)  
+[![image](
 Credits/Terraform-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/terraform/)  
 [![image](
 Credits/CloudFormation-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/cloudformation/)  
