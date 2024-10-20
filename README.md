@@ -24,7 +24,7 @@ Credits/expressjs.com.svg?raw=true)](https://expressjs.com/)
 [![image](
 Credits/mongodb.com.svg?raw=true)](https://mongodb.com/)  
 [![image](
-Credits/min.io.svg?raw=true)](https://min.io/)  
+Credits/minio.io.svg?raw=true)](https://minio.io)  
 [![image](
 Credits/terraform.iosvg?raw=true)](https://terraform.io/)  
 [![image](
