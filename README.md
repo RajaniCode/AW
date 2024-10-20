@@ -30,7 +30,7 @@ Credits/terraform.io.svg?raw=true)](https://terraform.io/)
 [![image](
 Credits/Terraform-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/terraform/)  
 [![image](
-Credits/CloudFormation-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/coudformation/)  
+Credits/CloudFormation-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/cloudformation/)  
 [![image](
 Credits/XML-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/xml/)  
 [![image](
