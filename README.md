@@ -10,6 +10,8 @@ Credits/aws.amazon.com.svg?raw=true)](https://aws.amazon.com/)
 [![image](
 Credits/kubernetes.io.svg?raw=true)](https://kubernetes.io/)  
 [![image](
+Credits/k3s.io.svg?raw=true)](https://k3s.io/)  
+[![image](
 Credits/docker.com.svg?raw=true)](https://docker.com/)  
 [![image](
 Credits/nginx.org.svg?raw=true)](https://nginx.org/)  
