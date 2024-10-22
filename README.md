@@ -6,8 +6,7 @@ AWS
 Credits
 -------
 [![image](
-Credits/cncf.io.svg)]
-(https://cncf.io/)
+Credits/cncf.io.svg)](https://cncf.io/)  
 
 [![image](
 Credits/aws.amazon.com.svg?raw=true)](https://aws.amazon.com/)  
