@@ -46,12 +46,10 @@ Credits/yaml.io.svg)](https://yaml.io/)
 [![image](
 Credits/cncf.io.svg)](https://cncf.io/)  
 [![image](
-Credits/owasp.org.svg)](https://owasp.org/)  
-
-[![image](
+Credits/owasp.org.svg)](https://owasp.org/)<!--[![image](
 Credits/app.diagrams.net.svg)](https://app.diagrams.net/)  
 [![image](
-Credits/drawio.com.svg)](https://drawio.com/)  
+Credits/drawio.com.svg)](https://drawio.com/)-->  
 
 [![image](
 Credits/Terraform-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/terraform/)  
