@@ -8,6 +8,12 @@ Credits
 [![image](
 Credits/aws.amazon.com.svg)](https://aws.amazon.com/)  
 [![image](
+Credits/centos.org.svg)](https://centos.org/)  
+[![image](
+Credits/fedoraproject.org.svg)](https://fedoraproject.org/)  
+[![image](
+Credits/redhat.com.svg)](https://redhat.com/)  
+[![image](
 Credits/kubernetes.io.svg)](https://kubernetes.io/)  
 [![image](
 Credits/minikube.sigs.k8s.io.svg)](https://minikube.sigs.k8s.io/)  
