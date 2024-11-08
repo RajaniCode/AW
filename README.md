@@ -65,4 +65,6 @@ Credits/XML-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonar
 [![image](
 Credits/Secrets-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/secrets/)  
 [![image](
-Credits/Text-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/text/)
+Credits/Text-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/text/)  
+[![image](
+Credits/Ansible-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/ansible/)
