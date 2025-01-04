@@ -8,6 +8,8 @@ Credits
 [![image](
 Credits/aws.amazon.com.svg)](https://aws.amazon.com/)  
 [![image](
+Credits/docs.aws.amazon.com.svg)](https://docs.aws.amazon.com/)  
+[![image](
 Credits/centos.org.svg)](https://centos.org/)  
 [![image](
 Credits/fedoraproject.org.svg)](https://fedoraproject.org/)  
