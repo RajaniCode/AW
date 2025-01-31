@@ -1,5 +1,5 @@
-AWS
----
+Amazon Web Services
+-------------------
 
 - Amazon Web Services
 
